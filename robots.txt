@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paroipaich.gistalks.com/sitemap.xml
